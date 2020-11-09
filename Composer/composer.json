@@ -1,0 +1,15 @@
+{
+    "name": "and_fpv/composer",
+    "description": "Aula de Php 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anderson Felipe",
+            "email": "anderson_fpv@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
